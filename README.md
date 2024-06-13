@@ -18,3 +18,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
+# Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
+# String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
