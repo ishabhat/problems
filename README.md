@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/ishabhat/problems/tree/master/0605-can-place-flowers) |
 # Hash Table
 |  |
 | ------- |
@@ -28,3 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/ishabhat/problems/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
+# Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ishabhat/problems/tree/master/0605-can-place-flowers) |
