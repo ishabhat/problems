@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ishabhat/problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/ishabhat/problems/tree/master/0605-can-place-flowers) |
 # Hash Table
@@ -34,4 +35,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ishabhat/problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ishabhat/problems/tree/master/0605-can-place-flowers) |
