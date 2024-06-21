@@ -25,12 +25,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/ishabhat/problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishabhat/problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ishabhat/problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ishabhat/problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishabhat/problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ishabhat/problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
 # Greedy
 |  |
