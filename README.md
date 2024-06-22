@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/ishabhat/problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/ishabhat/problems/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/ishabhat/problems/tree/master/0643-maximum-average-subarray-i) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishabhat/problems/tree/master/1798-max-number-of-k-sum-pairs) |
 # Hash Table
 |  |
@@ -57,3 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishabhat/problems/tree/master/1798-max-number-of-k-sum-pairs) |
+# Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ishabhat/problems/tree/master/0643-maximum-average-subarray-i) |
