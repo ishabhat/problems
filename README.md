@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishabhat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishabhat/problems/tree/master/1798-max-number-of-k-sum-pairs) |
 # Stack
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/ishabhat/problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ishabhat/problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ishabhat/problems/tree/master/0443-string-compression) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
 # Greedy
 |  |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishabhat/problems/tree/master/1798-max-number-of-k-sum-pairs) |
 # Sliding Window
 |  |
@@ -79,3 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ishabhat/problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/ishabhat/problems/tree/master/1833-find-the-highest-altitude) |
+# Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
