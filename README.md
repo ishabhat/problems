@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/ishabhat/problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ishabhat/problems/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/ishabhat/problems/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/ishabhat/problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishabhat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishabhat/problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/ishabhat/problems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ishabhat/problems/tree/master/2470-removing-stars-from-a-string) |
 # Monotonic Stack
 |  |
@@ -91,4 +93,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ishabhat/problems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ishabhat/problems/tree/master/2470-removing-stars-from-a-string) |
