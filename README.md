@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
+| [2470-removing-stars-from-a-string](https://github.com/ishabhat/problems/tree/master/2470-removing-stars-from-a-string) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ishabhat/problems/tree/master/0443-string-compression) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/ishabhat/problems/tree/master/2470-removing-stars-from-a-string) |
 # Greedy
 |  |
 | ------- |
@@ -86,3 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
+# Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/ishabhat/problems/tree/master/2470-removing-stars-from-a-string) |
