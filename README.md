@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ishabhat/problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ishabhat/problems/tree/master/0496-next-greater-element-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ishabhat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/ishabhat/problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishabhat/problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ishabhat/problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ishabhat/problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ishabhat/problems/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ishabhat/problems/tree/master/0443-string-compression) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ishabhat/problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
 # Simulation
 |  |
@@ -101,3 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ishabhat/problems/tree/master/0412-fizz-buzz) |
+# Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ishabhat/problems/tree/master/0387-first-unique-character-in-a-string) |
