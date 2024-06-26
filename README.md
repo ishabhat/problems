@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ishabhat/problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishabhat/problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ishabhat/problems/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/ishabhat/problems/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ishabhat/problems/tree/master/0443-string-compression) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ishabhat/problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
@@ -93,5 +94,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ishabhat/problems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ishabhat/problems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ishabhat/problems/tree/master/2470-removing-stars-from-a-string) |
+# Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ishabhat/problems/tree/master/0412-fizz-buzz) |
