@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ishabhat/problems/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ishabhat/problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ishabhat/problems/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishabhat/problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # String
 |  |
 | ------- |
@@ -108,3 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ishabhat/problems/tree/master/0387-first-unique-character-in-a-string) |
+# Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishabhat/problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
