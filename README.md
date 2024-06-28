@@ -115,3 +115,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/ishabhat/problems/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishabhat/problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishabhat/problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishabhat/problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Sorting
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishabhat/problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+<!---LeetCode Topics End-->
