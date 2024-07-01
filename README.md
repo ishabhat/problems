@@ -129,4 +129,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishabhat/problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
