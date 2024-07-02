@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
+| [2050-count-good-numbers](https://github.com/ishabhat/problems/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/ishabhat/problems/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
