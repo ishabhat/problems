@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ishabhat/problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishabhat/problems/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/ishabhat/problems/tree/master/0283-move-zeroes) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishabhat/problems/tree/master/0283-move-zeroes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishabhat/problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/ishabhat/problems/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
