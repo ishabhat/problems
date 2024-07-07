@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ishabhat/problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishabhat/problems/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/ishabhat/problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ishabhat/problems/tree/master/0287-find-the-duplicate-number) |
 | [0967-minimum-falling-path-sum](https://github.com/ishabhat/problems/tree/master/0967-minimum-falling-path-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishabhat/problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishabhat/problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ishabhat/problems/tree/master/0287-find-the-duplicate-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ishabhat/problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -184,4 +186,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ishabhat/problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ishabhat/problems/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ishabhat/problems/tree/master/0967-minimum-falling-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishabhat/problems/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishabhat/problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
