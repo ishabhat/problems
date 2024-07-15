@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ishabhat/problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ishabhat/problems/tree/master/0287-find-the-duplicate-number) |
 | [0967-minimum-falling-path-sum](https://github.com/ishabhat/problems/tree/master/0967-minimum-falling-path-sum) |
+| [1651-shuffle-string](https://github.com/ishabhat/problems/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ishabhat/problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ishabhat/problems/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/ishabhat/problems/tree/master/3194-find-words-containing-character) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishabhat/problems/tree/master/0022-generate-parentheses) |
+| [1651-shuffle-string](https://github.com/ishabhat/problems/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ishabhat/problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ishabhat/problems/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/ishabhat/problems/tree/master/3194-find-words-containing-character) |
