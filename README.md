@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ishabhat/problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/ishabhat/problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ishabhat/problems/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -174,13 +175,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ishabhat/problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishabhat/problems/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ishabhat/problems/tree/master/0967-minimum-falling-path-sum) |
+| [1013-fibonacci-number](https://github.com/ishabhat/problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishabhat/problems/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/ishabhat/problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ishabhat/problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ishabhat/problems/tree/master/2050-count-good-numbers) |
 ## String
 |  |
