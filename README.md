@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ishabhat/problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishabhat/problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ishabhat/problems/tree/master/0287-find-the-duplicate-number) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishabhat/problems/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/ishabhat/problems/tree/master/0125-valid-palindrome) |
 | [1651-shuffle-string](https://github.com/ishabhat/problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ishabhat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ishabhat/problems/tree/master/2163-kth-distinct-string-in-an-array) |
