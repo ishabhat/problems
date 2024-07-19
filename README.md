@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishabhat/problems/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ishabhat/problems/tree/master/0125-valid-palindrome) |
+| [0551-student-attendance-record-i](https://github.com/ishabhat/problems/tree/master/0551-student-attendance-record-i) |
 | [1651-shuffle-string](https://github.com/ishabhat/problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ishabhat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ishabhat/problems/tree/master/2163-kth-distinct-string-in-an-array) |
