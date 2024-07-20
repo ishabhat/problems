@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/ishabhat/problems/tree/master/0967-minimum-falling-path-sum) |
 | [1651-shuffle-string](https://github.com/ishabhat/problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ishabhat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishabhat/problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ishabhat/problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ishabhat/problems/tree/master/2502-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ishabhat/problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
