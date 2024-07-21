@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ishabhat/problems/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/ishabhat/problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ishabhat/problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ishabhat/problems/tree/master/0066-plus-one) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ishabhat/problems/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ishabhat/problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishabhat/problems/tree/master/0283-move-zeroes) |
