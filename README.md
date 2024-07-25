@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ishabhat/problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ishabhat/problems/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/ishabhat/problems/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/ishabhat/problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ishabhat/problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ishabhat/problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ishabhat/problems/tree/master/0213-house-robber-ii) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ishabhat/problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ishabhat/problems/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
